@@ -17,7 +17,7 @@ tags:
 
 # 创建gitignore文件
 
-```
+```/Users/lbd/Documents/myword1/_posts/words/2022-11-22-waerdenghu.md
 touch .gitignore
 ```
 ## 注释Git忽略规则
