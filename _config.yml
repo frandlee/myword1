@@ -15,10 +15,10 @@ links:
     url:          /
     external:     false
   - name:         Words
-    url:          /book
+    url:          /words
     external:     false
   - name:         Sentences
-    url:          /road
+    url:          /sentences
     external:     false
   - name:         归档
     url:          /archives
