@@ -1,10 +1,10 @@
 # ----------- CONFIGURABLE START -----------
-title:            "LiberXue|FullStack|独立开发者|jekyll blog|GitHub blog"
-description:      "Full Stack独立开发者|欢迎来到 LiberXue「角落」侃侃理想、谈谈人生、敲敲代码。"
-url:              https://liberxue.github.io # 域名
-signoff:          "LiberXue" # Your name
-facebook_appid:   #liberxue
-google_analytics: UA-101222464-1
+title:            "Test|English Stuying"
+description:      "welcom"
+url:              https://www.myword.cf # 域名
+signoff:          "BD" # Your name
+facebook_appid:   NA
+google_analytics: NA
 share:            true 
 # 分页
 paginate: 15
@@ -14,10 +14,10 @@ links:
   - name:         首页
     url:          /
     external:     false
-  - name:         书籍
+  - name:         Words
     url:          /book
     external:     false
-  - name:         旅游
+  - name:         Sentences
     url:          /road
     external:     false
   - name:         归档
